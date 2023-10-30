@@ -1,0 +1,21 @@
+Business Understanding : 
+Objectif Commercial : 
+-prédire si un coupon sera accepté dans différentes situations de conduite, 
+en fonction de divers facteurs tels que la destination, l'heure, la météo, le passager, etc.
+Questions Métier : 
+-Quels facteurs influencent le plus la décision d'accepter un coupon ?
+-Comment ces facteurs varient-ils en fonction de la situation de conduite ?
+-Comment pouvons-nous cibler efficacement les coupons en fonction de ces facteurs ?
+Data Understanding:
+Collecte des Données :
+-Les données semblent avoir été collectées via un sondage sur Amazon Mechanical Turk, 
+où les répondants ont décrit différentes situations de conduite et ont indiqué s'ils accepteraient un coupon.
+Exploration des Données :
+-Les données comprennent de nombreuses variables, 
+qui sont sont potentiellement liées à la décision d'accepter un coupon.
+
+// analayse de quelque exemple
+awel haja colunm car lezem tetnaha khater 3ana  12576 null men 12684
+Valeurs uniques pour la colonne toCoupon_GEQ5min: [1] hedhi ma3ndhshe ta2thir 3al data khater tekhou kan 1
+
+
